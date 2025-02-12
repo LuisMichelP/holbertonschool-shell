@@ -1,0 +1,1 @@
+Hi Holberton readme to pass the test, cohort 2025, 14 problema sshell init
